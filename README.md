@@ -34,7 +34,7 @@
 ## 🌐 Me retrouver
 
 <p align="center">
-![Mon image](images/senpai-mio.gif)
+  <img src="images/senpai-mio.gif" alt="Mon image">
 </p>
 
 ---
