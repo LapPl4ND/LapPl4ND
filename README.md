@@ -31,7 +31,7 @@
 
 ---
 
-## 🌐 Me retrouver
+## 🌐 JSP
 
 <p align="center">
   <img src="images/senpai-mio.gif" alt="Mon image">
