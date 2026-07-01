@@ -33,7 +33,9 @@
 
 ## 🌐 Me retrouver
 
+<p align="center">
 ![Mon image](images/senpai-mio.gif)
+</p>
 
 ---
 
