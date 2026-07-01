@@ -33,7 +33,7 @@
 
 ## 🌐 Me retrouver
 
-![Bannière]([https://exemple.com/banner.png](https://github.com/LapPl4ND/LapPl4ND.github.io/blob/main/img/Discord.png)
+![Mon image](images/t.jpg)
 
 ---
 
