@@ -1,17 +1,15 @@
-<h1 align="center">👋 Salut, moi c'est LapPl4ND</h1>
+<h1 align="center">👋 Hi, I'm LapPl4ND</h1>
 
 <p align="center">
-  💻 Développeur passionné | 🚀 Toujours en train d'apprendre | ❤️ Open Source
+  💻 Passionate developer | 🚀 Always Learning | ❤️ Open Source
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+## ⭐​ About Me
 
-- 🌱 J'apprends actuellement **JavaScript, React et Node.js**
-- 💡 J'aime créer des applications web et des bots.
-- 🎯 Mon objectif : devenir développeur Full Stack.
-- 📫 Contact : ton.email@example.com
+- 🌱 Soon
+- 📫 Contact : - Discord exusiai___
 
 ---
 
@@ -19,17 +17,8 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github,vscode" />
 
-</p>
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -42,32 +31,15 @@
 
 ---
 
-## 🏆 Trophées
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TON_PSEUDO&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
 ## 🌐 Me retrouver
 
 <p align="left">
 <a href="https://github.com/TON_PSEUDO">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="[https://skillicons.dev/icons?i=github](https://github.com/LapPl4ND)"/>
 </a>
-
-<a href="https://linkedin.com/in/TON_PROFIL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-</p>
 
 ---
 
 <p align="center">
-✨ Merci de visiter mon profil ! N'hésite pas à laisser une ⭐ sur mes projets.
+✨ Thanks for visiting my profile! Feel free to leave a ⭐ on my projects.
 </p>
