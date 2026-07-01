@@ -33,7 +33,7 @@
 
 ## 🌐 Me retrouver
 
-![Mon image](images/t.jpg)
+![Mon image](images/senpai-mio.gif)
 
 ---
 
