@@ -23,7 +23,7 @@ Currently I'm spending most of my time improving my **C++** skills and discoveri
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,lua,python,html,css,js,nodejs,git,github,vscode" />
 </p>
 
 ---
