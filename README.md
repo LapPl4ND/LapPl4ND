@@ -12,7 +12,7 @@
 
 ## 🌸 About Me
 
-I'm **Nyssira**, a French developer who enjoys building whatever comes to mind.
+I'm **Nyssira**, a French developer beginners who enjoys building whatever comes to mind.
 
 I love experimenting with different technologies, whether it's creating websites, desktop applications or C++ projects with ImGui.
 
