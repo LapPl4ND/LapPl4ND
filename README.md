@@ -23,14 +23,6 @@
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TON_PSEUDO&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Web
 
 <p align="center">
