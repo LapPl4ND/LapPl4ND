@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Nyssira</h1>
 
 <p align="center">
-  💻 Developer • 🇫🇷 France • 🌸 Anime Lover
+  💻 Developer beginners • 🇫🇷 France • 🌸 Anime Lover
 </p>
 
 <p align="center">
