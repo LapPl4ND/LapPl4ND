@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD459,100:FF8FAB&height=200&section=header&text=Nyssira&fontSize=70&fontColor=1a1b27&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20•%20Anime%20Lover&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD459,100:FF8FAB&height=240&section=header&text=Nyssira&fontSize=70&fontColor=1a1b27&animation=fadeIn&fontAlignY=36&desc=Beginner%20Developer%20•%20Anime%20Lover&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
