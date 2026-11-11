@@ -56,8 +56,8 @@ int main() {
   <a href="https://github.com/LapPl4ND/ImageGabe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=ImageGabe&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
-  <a href="https://github.com/LapPl4ND/NOM_DU_REPO_DU_SITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=NOM_DU_REPO_DU_SITE&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
+  <a href="https://github.com/LapPl4ND/LapPl4ND.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=LapPl4ND.github.io&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
 </p>
 
