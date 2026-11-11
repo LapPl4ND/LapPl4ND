@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1400&color=BB9AF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;C%2B%2B+%7C+Lua+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;Node.js+%7C+Git+%7C+VS;Always+building+random+projects." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1400&color=FFD459&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;C%2B%2B+%7C+Lua+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;Node.js+%7C+Git+%7C+VS;Always+building+random+projects." />
 </p>
 
 ---
