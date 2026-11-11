@@ -54,10 +54,10 @@ int main() {
 
 <p align="center">
   <a href="https://github.com/Nyssira/ImageGabe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyssira&repo=ImageGabe&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=ImageGabe&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
-  <a href="https://github.com/Nyssira/NOM_DU_REPO_DU_SITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyssira&repo=NOM_DU_REPO_DU_SITE&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
+  <a href="https://github.com/LapPl4ND/ImageGabe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=LapPl4ND.github.io&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
 </p>
 
