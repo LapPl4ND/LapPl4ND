@@ -54,14 +54,21 @@ int main() {
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/LapPl4ND/ImageGabe">
         <img src="https://img.shields.io/badge/🎵_ImageGabe-FFD459?style=for-the-badge&labelColor=1a1b27" />
       </a>
       <br><br>
       Grab album covers & thumbnails from <b>Spotify</b> and <b>YouTube</b> in one click.
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://github.com/LapPl4ND/LinkConvertisor">
+        <img src="https://img.shields.io/badge/🔗_LinkConvertisor-C3A6FF?style=for-the-badge&labelColor=1a1b27" />
+      </a>
+      <br><br>
+      Convert music links to <b>MP3</b> or <b>MP4</b>. Built with <b>C#</b>.
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/LapPl4ND/LapPl4ND.github.io">
         <img src="https://img.shields.io/badge/🌐_My_Website-FF8FAB?style=for-the-badge&labelColor=1a1b27" />
       </a>
