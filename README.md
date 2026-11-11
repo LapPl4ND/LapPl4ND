@@ -52,26 +52,41 @@ int main() {
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/LapPl4ND/ImageGabe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=ImageGabe&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
-  </a>
-  <a href="https://github.com/LapPl4ND/LapPl4ND.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=LapPl4ND.github.io&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/LapPl4ND/ImageGabe">
+        <img src="https://img.shields.io/badge/🎵_ImageGabe-FFD459?style=for-the-badge&labelColor=1a1b27" />
+      </a>
+      <br><br>
+      Grab album covers & thumbnails from <b>Spotify</b> and <b>YouTube</b> in one click.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/LapPl4ND/LapPl4ND.github.io">
+        <img src="https://img.shields.io/badge/🌐_My_Website-FF8FAB?style=for-the-badge&labelColor=1a1b27" />
+      </a>
+      <br><br>
+      My personal website, built with <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LapPl4ND&show_icons=true&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapPl4ND&layout=compact&theme=tokyonight&title_color=FFD459&hide_border=true" />
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LapPl4ND&theme=tokyonight&ring=FFD459&fire=FF8FAB&currStreakLabel=FFD459&hide_border=true" />
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="29%" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="29%" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/radical/3-stats.svg" width="29%" />
+  <img src="profile-summary-card-output/radical/4-productive-time.svg" width="29%" />
 </p>
 
 ---
