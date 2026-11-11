@@ -45,7 +45,7 @@ int main() {
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c#,lua,python,html,css,js,nodejs,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,python,html,css,js,nodejs,git,github,vscode&perline=11" />
 </p>
 
 ---
