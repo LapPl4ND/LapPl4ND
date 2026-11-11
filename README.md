@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/📍_France-1a1b27?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻_Beginner_Dev-FFD459?style=for-the-badge&logoColor=1a1b27" />
   <img src="https://img.shields.io/badge/🌸_Anime_Lover-FF8FAB?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Nyssira&style=for-the-badge&color=FFD459&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=LapPl4ND&style=for-the-badge&color=FFD459&label=VISITORS" />
 </p>
 
 ---
@@ -53,11 +53,11 @@ int main() {
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/Nyssira/ImageGabe">
+  <a href="https://github.com/LapPl4ND/ImageGabe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=ImageGabe&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
-  <a href="https://github.com/LapPl4ND/ImageGabe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=LapPl4ND.github.io&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
+  <a href="https://github.com/LapPl4ND/NOM_DU_REPO_DU_SITE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapPl4ND&repo=NOM_DU_REPO_DU_SITE&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
   </a>
 </p>
 
@@ -66,12 +66,12 @@ int main() {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nyssira&show_icons=true&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyssira&layout=compact&theme=tokyonight&title_color=FFD459&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LapPl4ND&show_icons=true&theme=tokyonight&title_color=FFD459&icon_color=FF8FAB&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapPl4ND&layout=compact&theme=tokyonight&title_color=FFD459&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nyssira&theme=tokyonight&ring=FFD459&fire=FF8FAB&currStreakLabel=FFD459&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LapPl4ND&theme=tokyonight&ring=FFD459&fire=FF8FAB&currStreakLabel=FFD459&hide_border=true" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ int main() {
 ---
 
 <p align="center">
-  <b>Thanks for stopping by 🤍 Have a wonderful day !</b>
+  <b>Thanks for stopping by 🤍 Have a wonderful day!</b>
 </p>
 
 <p align="center">
