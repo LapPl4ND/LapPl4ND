@@ -78,7 +78,7 @@ int main() {
       Keep track of the <b>anime</b>, <b>manga</b> and <b>webtoons</b> you're watching and reading.
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/LapPl4ND/https://lappl4nd.github.io">
+      <a href="https://github.com/LapPl4ND/lappl4nd.github.io">
         <img src="https://img.shields.io/badge/🌐_My_Website-FF8FAB?style=for-the-badge&labelColor=1a1b27" />
       </a>
       <br><br>
